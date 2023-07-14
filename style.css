@@ -1,0 +1,10 @@
+body {
+  font-family: system-ui;
+  background-color: #000000;
+  color: white;
+}
+
+.dark-mode {
+  background-color: #ffffff;
+  color: black;
+}
